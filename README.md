@@ -1,4 +1,6 @@
-Hello, I’m Atefeh, a Data enthusiast with an M.Sc. in Statistics from Memorial University of Newfoundland, Canada. I am passionate about data science and thrive on developing and implementing machine learning models, statistical analysis, and business intelligence solutions.
+Hello, I’m Atefeh, a Data enthusiast with an M.Sc. in Statistics from Memorial University. I am passionate about data science and thrive on developing and implementing machine learning models, statistical analysis, and business intelligence solutions.
+
+🎖️ I may not be more gifted or talented than other data enthusiasts, but my curiosity and determination set me apart. I'm a self-driven learner and stick with problems until I find the right solution.
 
 My GitHub repository showcases my work in:
 
